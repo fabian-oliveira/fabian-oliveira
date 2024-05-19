@@ -1,5 +1,5 @@
 ### Olá Sou Fabian Oliveira 👋
-#### Sou Professor de Informática, ormado em Redes de Computadores, e tenho um amor pelo ensino e pela área de TI. 💖💻
+#### Professor de Informática, ormado em Redes de Computadores, e tenho um amor pelo ensino e pela área de TI. 💖💻
 
 - 👨🏻‍💻 **Professor de  Informática e Tecnologias** - Tenho experiência em diversas ferramentas, incluindo: : Word I Excel I Power Point I Photoshop I CorelDraw I Wordpress I Wix I Gestão de Redes Sociais I Marketing Digital I Construct 3 I RPG Maker e outros.
   
