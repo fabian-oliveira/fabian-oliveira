@@ -36,7 +36,6 @@ Word I Excel I Power Point I Photoshop I CorelDraw I Wordpress I Wix I Gestão d
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fabian-oliveira&repo=fabian-oliveira&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/fabian-oliveira/fabian-oliveira)
 
 ## Confira também meus projetos 
-- <a href="https://github.com/fabian-oliveira/dio-lab-open-source">Projeto 01 - Contribuindo em um Projeto Open Source no GitHub
+<a href="https://github.com/fabian-oliveira/dio-lab-open-source">Projeto 01 - Contribuindo em um Projeto Open Source no GitHub
   </a>
-
-
+<a href="https://github.com/fabian-oliveira/prompts-receita-para-criar-um-ebook-html">Projeto 02 - EBOOK Gerado por I.A.s
