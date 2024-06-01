@@ -37,5 +37,6 @@ Word I Excel I Power Point I Photoshop I CorelDraw I Wordpress I Wix I Gestão d
 
 ## Confira também meus projetos 
 <a href="https://github.com/fabian-oliveira/dio-lab-open-source">Projeto 01 - Contribuindo em um Projeto Open Source no GitHub
-  </a>
+  </a> 
+  <br>
 <a href="https://github.com/fabian-oliveira/prompts-receita-para-criar-um-ebook-html">Projeto 02 - EBOOK Gerado por I.A.s
